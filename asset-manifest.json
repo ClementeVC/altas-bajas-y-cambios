@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/calderon_practica1/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/calderon_practica1/static/js/main.bb2848cb.chunk.js",
+    "main.js.map": "/calderon_practica1/static/js/main.bb2848cb.chunk.js.map",
+    "runtime-main.js": "/calderon_practica1/static/js/runtime-main.37b147c1.js",
+    "runtime-main.js.map": "/calderon_practica1/static/js/runtime-main.37b147c1.js.map",
+    "static/css/2.150d169a.chunk.css": "/calderon_practica1/static/css/2.150d169a.chunk.css",
+    "static/js/2.6df18a6d.chunk.js": "/calderon_practica1/static/js/2.6df18a6d.chunk.js",
+    "static/js/2.6df18a6d.chunk.js.map": "/calderon_practica1/static/js/2.6df18a6d.chunk.js.map",
+    "index.html": "/calderon_practica1/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/calderon_practica1/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/calderon_practica1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6df18a6d.chunk.js.LICENSE.txt": "/calderon_practica1/static/js/2.6df18a6d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/calderon_practica1/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b147c1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6df18a6d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bb2848cb.chunk.js"
+  ]
+}
